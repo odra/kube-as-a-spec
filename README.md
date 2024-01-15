@@ -41,16 +41,6 @@ by adding extra [metadata](./https://kubernetes.io/docs/concepts/overview/workin
 
 If you want to contribute bug reports or feature requests, please use *GitHub Issues*.
 
-## Versions
-
-| Release Date | Release              |
-| ------------ | -------------------- |
-| 2023 July    | [V1](releases/v1.md) |
-
-## Maintainers
-
-* Leonardo Rossetti (Red Hat)
-
 ## License
 
 [Apache-2.0](./LICENSE)
